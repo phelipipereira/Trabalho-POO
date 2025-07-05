@@ -1,5 +1,6 @@
 # Projeto Orientado a Objetos: Sistema de Controle de Estacionamento
-
+## ALuno
+- Phelipi Machado
 ## Objetivo
 
 O objetivo deste projeto é aplicar os conceitos da Programação Orientada a Objetos (POO) por meio do desenvolvimento de um sistema de controle de estacionamento. Esse sistema contribui para a administração do fluxo de veículos no estacionamento, capaz de registrar veículos que passarão durante o dia, calculando o valor com base no tempo e fazendo levantamentos financeiros.
